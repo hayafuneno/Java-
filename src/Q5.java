@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Q5 {
 
 	public static void main(String[] args) {
-
+		
 		Scanner sc = new Scanner(System.in);// java.util.Scannerをインポートする
 		int lineInt = sc.nextInt();// 数字であるからString型ではなく、int型となる
 		System.out.println(lineInt / 80);// 変数に入っている数字を80で割る解を出力背売る（小数点はなし）
