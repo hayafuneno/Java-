@@ -1,6 +1,6 @@
 
 public class Q13 {
-	// 名前、年齢、身長、体重の出力
+	// 002_「名前、年齢、身長、体重の出力」【提出済み】
 	public static void main(String[] args) {
 		String name = "タロウ";
 		int age = 20;
