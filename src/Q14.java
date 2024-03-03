@@ -1,6 +1,7 @@
 
 public class Q14 {
 //「数値が0以上かどうか」を画面に表示するプログラムを作成する
+//002_「数値が0以上かどうか」【提出済み】
 	public static void main(String[] args) {
 
 		int number = -2;// 変数numberを宣言し、数値を代入
