@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //D278:徒歩何分
+//001_D278:徒歩何分[提出済み]
 //徒歩は分速 80mの速さとし、目的地までの距離をXメートルとしたとき徒歩何分かを計算し出力
 //https://paiza.jp/career/challenges/705
 public class Q5 {
