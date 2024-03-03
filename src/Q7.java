@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //「D079:同じ文字」
+//001_D079:同じ文字(Part2)[提出済み]
 public class Q7 {
 
 	public static void main(String[] args) {
@@ -11,7 +12,7 @@ public class Q7 {
 //		for (String str : wordList) {
 //			System.out.print("["+str+"]");
 //		}
-		boolean chkEqual = isEqual(wordLsit);
+		boolean chkEqual = isEqual(wordLsit);// Equal
 		if (chkEqual) {
 			// Trueなら「NG」を出力
 			System.out.println("NG");
