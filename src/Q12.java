@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 //https://paiza.jp/career/challenges/581
 //1 個の値段が N 円のリンゴがあり、リンゴを3つ買ったとき合計で何円になるかのプログラム
+//001_D225:3つ買う [提出済み]
 public class Q12 {
 
 	public static void main(String[] args) {
