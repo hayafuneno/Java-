@@ -2,6 +2,7 @@ import java.util.Scanner;
 //D047:メダリストの表示
 //入力した値をそのままの順番でインポートから出力させる
 //https://paiza.jp/career/challenges/140
+
 public class Q4 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);// java.util.Scannerをインポートする
