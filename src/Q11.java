@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 //https://paiza.jp/challenges/471/show
 //「D190:センチをミリに」
+//001_D190:センチをミリに [提出済み]
 public class Q11 {
 	// 1センチメートルを10ミリメートルに変換するプログラム
 	public static void main(String[] args) {
