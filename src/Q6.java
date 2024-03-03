@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //「D079:同じ文字」
 //すべて同じ文字であった場合、警報を出力する
-//https://paiza.jp/challenges/207/show
+//001_D079:同じ文字(Part1)[提出済み]
 public class Q6 {
 
 	public static void main(String[] args) {// メインメソッド
