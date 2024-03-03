@@ -1,5 +1,6 @@
 
 public class Q15 {
+//002_「数値が偶数か奇数かどうか」
 //「Javaに馴染もう」の問題
 //「数値が偶数か奇数かどうか」を画面に表示するプログラムを作成する
 	public static void main(String[] args) {
