@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//001_D038:試合の回数 [提出済み]
 //https://paiza.jp/challenges/122/show
 public class Q16 {
 	// D038:試合の回数
