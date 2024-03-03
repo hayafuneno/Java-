@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//001_D133:株の利益 [提出済み]
 //https://paiza.jp/challenges/331/show
 public class Q9 {
 
