@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//D241:毎日勉強
+//001_D241:毎日勉強[提出済み]
 public class Q2 {
 	public static void main(String[] args) {
     // 自分の得意な言語で
